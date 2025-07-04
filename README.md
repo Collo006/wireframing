@@ -14,3 +14,6 @@ Enables Easy Modifications-Making changes to a wireframe is quicker and less cos
 
 Guides the Design Process-Wireframes act as a guide for subsequent design and development phases, ensuring that the final product aligns with the initial vision and requirements.
 
+# Types of Wireframes
+Low-Fidelity Wireframes: Simple sketches or basic digital layouts focusing on overall structure and functionality without detailed design.
+High-Fidelity Wireframes: More detailed and refined versions, often closer to the final design, including more specific layout and design elements.
