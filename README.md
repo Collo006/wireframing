@@ -30,3 +30,17 @@ Figma is a recommended tool for wireframing due to its cloud-based, collaborativ
 Real-time collaboration for teams and stakeholders
 Drag-and-drop interface for fast wireframe creation
 It's ideal for wireframing because it’s easy to use, promotes team alignment, and speeds up the design iteration process.
+
+#  benefits of wireframing
+Clarifies project requirements early and identifies missing features
+Enhances communication between developers, designers, and stakeholders
+Reduces development rework by catching issues before coding
+Provides a clear structure that guides UI/UX and frontend implementation
+Enables early usability testing and user feedback
+Speeds up development by minimizing ambiguity
+Helps estimate time, resources, and technical feasibility accurately
+
+Wireframes guide the design process by laying out the structure and functionality of a product before visual design begins, ensuring that the team focuses on usability and content placement first. For example, wireframes can highlight missing features or unclear requirements, helping developers and designers align early
+For instance, a wireframe showing a login page ensures the developer understands exactly where to place input fields and buttons.
+# real-world scenario of a wireframe
+At a startup building a property booking platform, the team used wireframes to map out the user journey—from searching for a property to completing a booking. During a review session, a stakeholder pointed out that the search filters were placed below the property listings, which would have forced users to scroll down every time they wanted to refine their results. This usability issue would have made the platform frustrating to use. Because it was caught early in the wireframe, the team simply repositioned the filters to the top and added a collapsible design for mobile views. This change improved the user flow dramatically before a single line of code was written.
